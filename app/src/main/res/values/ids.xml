@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="posterImageView" type="id" />
+    <item name="titleTextView" type="id" />
+    <item name="releaseDateTextView" type="id" />
+    <item name="ratingTextView" type="id" />
+</resources>
